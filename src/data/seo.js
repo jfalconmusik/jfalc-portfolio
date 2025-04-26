@@ -2,14 +2,14 @@ const SEO = [
 	{
 		page: "home",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
+			"Hi! My name is Jesse Falcon-Musik. I am a full-stack web and mobile developer with a specialty in React and React Native for frontend development as well as strong proficiency in Spring Boot for backend. I have worked in government contract roles as well as in a private business environment as a web developer for a total of about 1.5 years. Check out my most recent position here: https://myeverify.uscis.gov/",
 		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
 	},
 
 	{
 		page: "about",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
+			"Hi! My name is Jesse Falcon-Musik. I am a full-stack web and mobile developer with a specialty in React and React Native for frontend development as well as strong proficiency in Spring Boot for backend. I have worked in government contract roles as well as in a private business environment as a web developer for a total of about 1.5 years. Check out my most recent position here: https://myeverify.uscis.gov/",
 		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
 	},
 

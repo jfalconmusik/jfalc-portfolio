@@ -97,6 +97,9 @@ const Homepage = () => {
 
 								<div className="subtitle homepage-subtitle">
 									{INFO.homepage.description}
+									<a href="https://myeverify.uscis.gov/">
+										https://myeverify.uscis.gov
+									</a>
 								</div>
 							</div>
 
@@ -114,7 +117,7 @@ const Homepage = () => {
 						</div>
 
 						<div className="homepage-socials">
-							<a
+							{/* <a
 								href={INFO.socials.twitter}
 								target="_blank"
 								rel="noreferrer"
@@ -123,9 +126,9 @@ const Homepage = () => {
 									icon={faTwitter}
 									className="homepage-social-icon"
 								/>
-							</a>
+							</a> */}
 							<a
-								href={INFO.socials.github}
+								href="https://github.com/jfalconmusik"
 								target="_blank"
 								rel="noreferrer"
 							>
@@ -134,7 +137,7 @@ const Homepage = () => {
 									className="homepage-social-icon"
 								/>
 							</a>
-							<a
+							{/* <a
 								href={INFO.socials.stackoverflow}
 								target="_blank"
 								rel="noreferrer"
@@ -153,9 +156,9 @@ const Homepage = () => {
 									icon={faInstagram}
 									className="homepage-social-icon"
 								/>
-							</a>
+							</a> */}
 							<a
-								href={`mailto:${INFO.main.email}`}
+								href={`mailto:jfalconmusik@gmail.com`}
 								target="_blank"
 								rel="noreferrer"
 							>
@@ -170,7 +173,7 @@ const Homepage = () => {
 							<AllProjects />
 						</div>
 
-						<div className="homepage-after-title">
+						{/* <div className="homepage-after-title">
 							<div className="homepage-articles">
 								{myArticles.map((article, index) => (
 									<div
@@ -191,7 +194,7 @@ const Homepage = () => {
 							<div className="homepage-works">
 								<Works />
 							</div>
-						</div>
+						</div> */}
 
 						<div className="page-footer">
 							<Footer />
